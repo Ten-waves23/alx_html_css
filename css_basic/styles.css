@@ -18,3 +18,15 @@ aside{
       flex: 1;
       overflow-y: auto;
 }
+h1 h2 h3 {
+      color: blue;
+}
+
+a {
+      color: blueviolet;
+}
+
+a:hover{
+      color: red;
+      
+}
