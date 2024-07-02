@@ -40,6 +40,17 @@ ul a {
       font-weight: 600;
 }
 
+center{
+      color: white;
+      font-weight: 100;
+}
+.mv-text{
+      margin-left: 20px;
+}
+.bruce {
+      margin-left: 80px;
+}
+
 h1{
       color: white;
       font-size: 100px;
@@ -69,6 +80,7 @@ button{
       display: block;
       justify-content: center;
       text-align: center;
+      box-shadow: 5px 5px 45px black ;
      
 }
 
@@ -97,6 +109,8 @@ h3{
 }
 p{
       color: white;
+      font-style: italic;
+      font-weight: 200;
 }
 .banner-pics {
       display: flex;
@@ -135,6 +149,13 @@ blockquote{
       font-size: larger;
       font-weight: 200;
 }
+.person{
+      margin-right: 850px;
+}
+#person{
+      margin-right: 800px;
+}
+
 .H1 {
       color: black;
       font-weight: 300;
@@ -226,6 +247,7 @@ blockquote{
       color: grey;
       text-align: center;
       justify-content: center;
+      font-style: normal;
 }
 .icons{
       background-color: #071629;
@@ -244,6 +266,7 @@ blockquote{
 .vid-text{
       color: lightgray;
       font-size: large;    
+      font-style: normal;
 }
 .vid-text-1{
       color: black;
