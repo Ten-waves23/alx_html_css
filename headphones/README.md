@@ -1,0 +1,1 @@
+This is a website that showcases an headphone with its some of its newly developed features and functionalities.
