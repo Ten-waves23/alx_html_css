@@ -133,10 +133,6 @@ li a{
       margin-left: 900px;
  }
 
-
-
-
-
 .text{
       color: white;
       padding: 100px;
@@ -373,8 +369,14 @@ footer > .i{
   }
 
 
-  @media( max-width:770px) {
-      
+  .holberton_school-icon-ic_sound{
+     
+      color: #FF6565;
   }
 
-
+  .span-header{
+      margin-left: 100px;
+  }
+.span-text{
+      margin-left:auto
+}
